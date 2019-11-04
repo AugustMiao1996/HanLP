@@ -119,4 +119,10 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <dependency>
+    <groupId>com.hankcs</groupId>
+    <artifactId>hanlp</artifactId>
+    <version>portable-1.7.5</version>
+</dependency>
 </project>
+
